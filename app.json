@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7f2a31c7-6bc0-4c0b-b9fe-e15328d4a62a"
+      }
+    },
+    "owner": "ericcleptonsilva"
   }
 }
